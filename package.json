@@ -1,0 +1,26 @@
+{
+  "name": "togu-booster",
+  "version": "0.1.0",
+  "description": "toguri like click booster",
+  "main": "index.js",
+  "scripts": {
+    "togu-boost": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JumpeiArashi/togu-booster.git"
+  },
+  "keywords": [
+    "togu",
+    "toguri"
+  ],
+  "author": "JumpeiArashi",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/JumpeiArashi/togu-booster/issues"
+  },
+  "homepage": "https://github.com/JumpeiArashi/togu-booster#readme",
+  "dependencies": {
+    "nightmare": "^2.5.2"
+  }
+}
